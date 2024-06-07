@@ -1,5 +1,3 @@
-$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8](https://repository-images.githubusercontent.com/362039635/0f744fb2-1417-4e56-a1e6-afa6ef232b8a)');]{x0000}$} $$
-
 <h1 align="center">Jean Yves</h1>
 <p align="center">Professional Italian chef known for the best spaghetti code you've ever seen</p>
 <!-- <div id="header" align="center">
@@ -18,3 +16,6 @@ $$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; posit
 XxJean-YvesxX/XxJean-YvesxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://repository-images.githubusercontent.com/362039635/0f744fb2-1417-4e56-a1e6-afa6ef232b8a');]{x0000}$}
