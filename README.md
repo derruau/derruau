@@ -1,5 +1,5 @@
 <h1 align="center">Jean Yves</h1>
-<p align="center">Professional Italian chef known for the best spaghetti code you've ever seen</p>
+<p align="center">Professional spaghetti coder.</p>
 <!-- <div id="header" align="center">
   <img src="https://media1.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="250"/>
 </div> -->
