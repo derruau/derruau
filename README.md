@@ -1,5 +1,5 @@
 <h1 align="center">Derruau</h1>
-<p align="center">Microelectronics and CS Student.</p>
+<p align="center">Engineering student specializing in Microelectronics and Computer Science</p>
 <!-- <div id="header" align="center">
   <img src="https://media1.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="250"/>
 </div> -->
